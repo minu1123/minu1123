@@ -1,4 +1,4 @@
-<img align="center" width="1560" src="https://pa1.aminoapps.com/6413/409024338ce3a10e7fc2c25747d4c9130af0706a_hq.gif"  />
+<img align="center" height="300" width="1560" src="https://i.pinimg.com/originals/16/03/fb/1603fb7077abb9093f4af305b4e5ce79.gif"  />
 
 
 
