@@ -2,6 +2,9 @@
 
 ###
 
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=minu1123&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)        ![](https://github-readme-stats.vercel.app/api/top-langs/?username=minu1123&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=minu1123&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
