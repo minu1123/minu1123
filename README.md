@@ -1,5 +1,13 @@
 <h2 align="left">Hi 👋! My name is Miszael and I'm a programmer from brazil</h2>
 
+<h3 align="left">👩‍💻  About Me </h3> 
+
+<h4 align="left">"Hello, my name is Miszael, and I'm a Full Stack programmer with a focus on backend development. Currently, I'm studying Analysis and Systems Development, constantly seeking to expand my knowledge and opportunities in the field. I'm eager to collaborate on challenging projects and contribute to innovative solutions. </h4> 
+
+
+
+
+
 ###
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=minu1123&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)        ![](https://github-readme-stats.vercel.app/api/top-langs/?username=minu1123&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
